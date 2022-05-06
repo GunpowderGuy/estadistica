@@ -1,0 +1,2 @@
+# estadistica
+Estadistica y probabilidades
